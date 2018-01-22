@@ -1,0 +1,6 @@
+gunicorn==19.7.1
+falcon==1.4.1
+tweepy==3.5.0
+beautifulsoup4==4.6.0
+requests==2.18.4
+lxml==3.4.0
